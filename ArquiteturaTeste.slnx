@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ArquiteturaTeste/arquiteturateste.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>

@@ -1,0 +1,1 @@
+// Contém a Sidebar lateral e lógica de proteção. Usado pela área de Clientes.

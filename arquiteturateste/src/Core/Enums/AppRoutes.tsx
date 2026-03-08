@@ -1,0 +1,1 @@
+// Dicionário de rotas internas do Front-end (ex: /dashboard, /profile). Se mudar o nome da página, muda só aqui.

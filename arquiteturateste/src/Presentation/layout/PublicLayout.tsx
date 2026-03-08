@@ -1,0 +1,1 @@
+//Contém apenas a Navbar simples e o rodapé. Usado pela Home.

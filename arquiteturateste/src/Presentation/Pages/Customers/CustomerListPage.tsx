@@ -1,0 +1,1 @@
+// Tela privada que lista os pacientes ou clientes (exige JWT).

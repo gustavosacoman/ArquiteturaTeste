@@ -1,0 +1,1 @@
+// Define os perfis de acesso: ADMIN, DOCTOR, PATIENT. Usado para esconder ou mostrar botões na interface.

@@ -1,0 +1,1 @@
+// Um componente que verifica se o JWT existe na Data access layer antes de renderizar a página de Clientes.

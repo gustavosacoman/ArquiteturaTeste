@@ -1,0 +1,1 @@
+// Lida com os dados do paciente, como histórico médico, alergias e informações de perfil."

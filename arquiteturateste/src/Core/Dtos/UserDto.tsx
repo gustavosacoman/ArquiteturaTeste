@@ -1,0 +1,1 @@
+// Define a estrutura do objeto de usuário logado que o Front deve esperar após o login.

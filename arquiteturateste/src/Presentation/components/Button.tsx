@@ -1,0 +1,1 @@
+// Botão padrão para a interface do usuário

@@ -1,0 +1,1 @@
+// Gerencia o estado global de quem está logado. É a 'fonte da verdade' que diz se o usuário atual é um Admin ou um Paciente.

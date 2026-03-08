@@ -1,0 +1,1 @@
+// Mapeamento central de todos os endpoints do Back-end. Em vez de escrever /api/v1/auth/login no código, você usa ApiRoutes.AUTH_LOGIN

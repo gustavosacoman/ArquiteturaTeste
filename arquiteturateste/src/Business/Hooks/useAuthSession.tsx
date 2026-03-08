@@ -1,0 +1,1 @@
+// Coordena a sessão do usuário. Verifica se o JWT é válido e mantém os dados do médico/paciente acessíveis para as telas.

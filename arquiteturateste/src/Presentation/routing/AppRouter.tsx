@@ -1,0 +1,1 @@
+// Onde você define quais rotas são públicas e quais são protegidas.

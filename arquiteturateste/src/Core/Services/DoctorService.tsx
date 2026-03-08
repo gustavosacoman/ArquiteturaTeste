@@ -1,0 +1,1 @@
+// Serviço para buscar médicos por especialidade ou localização, usado na busca inicial do app.

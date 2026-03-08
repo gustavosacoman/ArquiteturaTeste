@@ -1,0 +1,1 @@
+// Regras de validação de formulários: 'A senha deve ter 8 caracteres' ou 'O e-mail deve ser válido'.
